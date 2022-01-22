@@ -1,0 +1,14 @@
+table, td {
+   border-style: solid black;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+ul {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+input.exercise1{
+    height:200px;
+    width:20px;
+   font-size:14pt;
+}
